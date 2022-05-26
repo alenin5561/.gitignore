@@ -1,0 +1,14 @@
+#не нужная папка
+tmp/
+
+#backup файлы
+*.png_backup
+
+#html_old
+*.html_old
+
+#DS_Store
+*.DS_Store
+
+#ignore Thumbs
+Thumbs.db
